@@ -8,7 +8,7 @@ This app uses the _open source versions_ of the following tools:
 
 ## Architecture Diagram
 
-![Architecture](architecture.png)
+![Architecture](https://github.com/jainhemant163/Streamlit-Based-Web-Apps/blob/main/monitoring-microservices-docker/architecture.PNG)
 
 ## Prerequisites
  
